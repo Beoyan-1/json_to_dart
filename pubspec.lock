@@ -361,7 +361,7 @@ packages:
     source: hosted
     version: "3.1.1"
   json_serializable:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: json_serializable
       sha256: "0f9e72745b7a48d2751e4913f81f423525d97657c4bf3e0983d9af989771bf71"
